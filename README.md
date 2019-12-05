@@ -13,7 +13,7 @@ Author
 * [Next Steps](#Next-Steps)
 
 ## Problem Statement
-When predicting outcomes of elections there are many factors that go into the success of an individual candidates campaign. Having cash on hand for expenses is vital for a campaign to survive and we believe that it can be an important factor in predicting wether the campaign will be successful or unsuccessful however it is not the only factor. In this project we believe that we can predict the outcomes of elections based on the financial contribution rates and the expenditures of primary campaigns. We seek to find if there is a "critical mass" of money spent on a variety of factors including paid media, staffing and transportation etc. that a candidate must spend or take in to survive the primaries.
+When predicting outcomes of elections there are many factors that go into the success of an individual candidates campaign. Having cash on hand for expenses is vital for a campaign to survive and we believe that it can be an important factor in predicting whether the campaign will be successful or unsuccessful however it is not the only factor. In this project we believe that we can predict the outcomes of elections based on the financial contribution rates Quarter by quarter donations. We seek to find if there is a "critical mass" of money earned to put a candidate over the threshold for surviving the primaries. 
 
 Using Survival Analysis we believe that we can create a model to predict if a candidates campaign will be successful or if their campaign will fall short before the primary winners are announced.I believe that this will be a useful tool for presidential candidates looking to improve their odds of success in the primary stages of the election.    
 
